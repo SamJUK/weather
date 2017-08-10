@@ -1,6 +1,11 @@
 # Weather
 A simple frontend website to check the weather in your location or any other city around the world.
 
+## Todo / Known Issues
+ - Scaling expecially on smaller devices
+ - Geolocation buggy on mobile
+ - Switch from cookies to localstorage
+
 ## Dependencies
  - Jquery
  - Font Awsome
